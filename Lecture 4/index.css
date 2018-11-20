@@ -1,0 +1,67 @@
+
+
+input[type="number/string"] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #4d1d1d;
+    padding: 3px;
+    height: 50px;
+    width: 400px;
+    text-align: right;
+    font-size: 45px;
+    
+}
+
+.spec_style{
+    width : 100px;
+    height: 100px;
+    font-size: 25;
+    cursor: pointer;
+    background-color: #f4f4f4;
+    border: 2px solid #eaeaea;
+    color: #666666;
+    text-transform: uppercase;
+    border-radius: 6px;
+    padding: 0;
+}
+
+.spec_style:hover{
+    background-color: #d83e3e;
+    color: #f2f2f2;
+}
+
+.num_style{
+    width : 100px;
+    height: 100px;
+    font-size: 25;
+    cursor: pointer;
+    background-color: #f4f4f4;
+    border: 2px solid #eaeaea;
+    color: #666666;
+    text-transform: uppercase;
+    border-radius: 6px;
+    padding: 0;
+}
+
+.num_style:hover{
+    background-color: #cacaca;
+    color: #f2f2f2;
+}
+
+.oper_style{
+    width : 100px;
+    height: 100px;
+    font-size: 25;
+    cursor: pointer;
+    background-color: #f4f4f4;
+    border: 2px solid #eaeaea;
+    color: #666666;
+    text-transform: uppercase;
+    border-radius: 6px;
+    padding: 0;
+}
+
+.oper_style:hover{
+    background-color: #0986ec;
+    color: #f2f2f2;
+}
